@@ -1,4 +1,4 @@
-# Anchor Box for Object Detection in coco data set
+# Anchor Box for Object Detection on coco data set
 
 ## Anchor boxes for k = 3 ##
 ![alt text](https://github.com/sumitsarkar1/assignment10_B/blob/main/anchor_box_3.jpg)
